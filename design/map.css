@@ -1,0 +1,75 @@
+#map,#panorama{
+
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+html,body{
+    height: 100%;
+    margin: 0;
+    padding:0;
+    font-family: 'Roboto Slab', serif;
+}
+
+.container-fluid
+{
+    height: calc(100% - 75px);
+
+}
+.row{
+    height: 100%;
+    overflow-y:auto;
+}
+#dreams-container{
+    padding: 0;
+    height: 100%;
+    overflow: scroll;
+}
+#map-container{
+    padding: 15px;
+    background-color: #eee;
+    height: 100%;
+}
+.card{
+    margin: 20px;
+}
+a btn:hover{
+    color: #fff !important;
+}
+#reset-map,#back-to-map{
+    position: absolute;
+    z-index: 10;
+    left: calc(50% - 75px);
+    top: 10px;
+    width: 150px;
+}
+
+.custom-map-control-button{
+    width: 150px;
+    cursor: pointer;
+    color: #fff;
+    background-color: #474a4c;
+    border-color: #46494b;
+
+    font-size: .875rem;
+    line-height: 1.5;
+    border-radius: .2rem;
+
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: normal;
+    word-spacing: normal;
+}
+
+.gm-style-iw-d>div{
+    color: rgb(8, 147, 189);
+}
+
+footer{
+    display: none;
+}

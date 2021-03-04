@@ -1,0 +1,126 @@
+body{
+    background-color: #eeeeee;
+}
+
+main{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.card{
+    background-image: url("../assets/appart.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card{
+    width: 18rem;
+    height:18rem;
+    border-radius:4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12),0 1px 2px rgba(0, 0, 0, 0.24);
+}
+.services a{
+    text-decoration: none;
+}
+.card h3{
+    margin-top: 45%;
+    text-align: center;
+}
+.col-md-3{
+    margin: 20px;
+}
+
+.jumbotron{
+    margin-top: -35px;
+    background-image: url("../assets/nature.jpg");
+}
+
+/* Content */
+.col-md-8{
+    margin-top: 15px;
+}
+.left-block,.right-block{
+    background-color: #fff;
+    box-shadow:  5px 3px 5px 2px rgb(0 0 0 / 12%), 0px 0px 2px 0px rgb(0 0 0 / 24%);
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.right-block,.left-block{
+    margin-top: 20px;
+}
+
+.left-block p{
+    color: rgb(26, 25, 25);
+    font-size: 0.8em;
+    text-align: center;
+}
+
+h3{
+    font-size: 1.1em;
+    font-weight: bold;
+    color: rgb(32, 31, 31);
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.25em;
+}
+
+.right-block p{
+    color: rgb(59, 61, 63);
+    font-size: 1.1em;
+    font-weight: normal;
+    text-align: left !important;
+    padding: 10px;
+}
+
+.right-block h2{
+    padding: 10px;
+    font-weight: bold;
+    color: rgb(29, 28, 28);
+    font-size: 1.3em;
+}
+.author img{
+    border-radius: 22px;
+}
+.pull-right{
+    float: right;
+    margin-left: 60px;
+} 
+.form-group{
+    margin-top: 10px;
+}
+
+
+.card-recommend{
+    width: 18rem;
+    height:10rem;
+    border-radius:4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12),0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.card-recommend{
+    background-image: url("../assets/appart.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card-recommend h3{
+    padding-top: 27%;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.card-title{
+    font-size: 0.9em !important;
+}
+
+.card-text{
+    font-size: 0.8em;
+    text-align: left;
+    overflow: hidden;
+}
+
+div.card{
+    height: auto !important;
+    margin: 5px;
+}

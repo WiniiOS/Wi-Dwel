@@ -1,0 +1,24 @@
+.footer-bar{
+    background-color:#002157 !important;
+
+    /* background-color:#f1051b; */
+    display: block;
+}
+
+.copyright{
+    background-color:#002157 !important;
+
+    /* background-color:#f1051b !important; */
+}
+footer a{
+    color: #fcfcfc !important;
+    text-decoration: none;
+}
+
+h5{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}
+p,a{
+    font-size: 0.86em;
+}

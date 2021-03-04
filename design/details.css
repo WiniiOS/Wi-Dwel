@@ -1,0 +1,427 @@
+main{
+    background-color: #eee;
+    padding-top: 50px;
+}
+.bi-chevron-left{
+    color: lightcoral;
+    
+}
+.annuler{
+    margin-left: 65%;
+
+}
+a.annuler:hover{
+    color: #fff;
+}
+
+.btn-cancel{
+    background-color: rgb(92, 92, 84);
+    height: 35px;
+}
+
+#myCarousel{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    /* background-color: red; */
+    /* padding: 40px; */
+    /* padding-top: 5px; */
+    /* border-radius: 10px; */
+    /* padding-bottom: 10px; */
+}
+
+#myCarousel img{
+    /* height: auto; */
+    width: 100%;
+    /* max-width: 800px; */
+    max-height: 370px;
+    border-radius: 10px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12),0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.carousel-control-next-icon,.carousel-control-prev-icon{
+    opacity: 1;
+    color: rgb(226, 19, 19);
+    /* background-color: rgb(230, 215, 215); */
+    /* margin-left: -75%; */
+}
+
+.post{
+    color: #fff;
+    background-color: rgb(238, 71, 20);
+    width: 100%;
+    margin-left: 0px;
+    height: 40px;
+    font-size: 0.9em;
+}
+
+.post i{
+    color: #fff;
+}
+
+p.first-details{
+    padding: 5px;
+    padding-left: 20px;
+}
+
+.first-details span{
+    margin-left: 10%;
+}
+
+.like-section{
+    text-align: center;
+    color: rgb(57, 184, 216);
+    
+}
+.like-section i{
+    color:rgb(101, 194, 231);
+}
+.like-section i:hover{
+    color:rgb(101, 194, 231);
+    cursor: pointer;
+}
+
+.section-two{
+    box-shadow:  5px 3px 5px 2px rgb(0 0 0 / 12%), 0px 0px 2px 0px rgb(0 0 0 / 24%);
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.section-two h4,.section-two h5{
+    color: black;
+    font-weight: bold;
+    font-size: 0.8em;
+    text-align: center;
+    padding-top: 10px;
+}
+.default-desc{
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: black;
+    font-weight: bold;
+    font-size: 1em;
+    text-align: justify;
+}
+
+.desc{
+    text-align: justify;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: rgb(20, 19, 19);
+    font-weight: normal;
+    font-size: 1em;
+}
+
+.section-three,.section-four,.section-five,.right-details{
+    box-shadow:  5px 3px 5px 2px rgb(0 0 0 / 12%), 0px 0px 2px 0px rgb(0 0 0 / 24%);
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 25px;
+}
+
+.section-three h5{
+    color: black;
+    font-weight:normal;
+}
+
+.section-three p{
+    font-size: 1.1em;
+    color: rgb(61, 58, 58);
+}
+.right-side{
+    border-left: 0.5px solid rgb(204, 193, 193);
+}
+
+.section-four img{
+    height: 50px;
+    width: 100px;
+}
+.section-four p{
+    color: black;
+    font-size: 0.8em;
+}
+
+label{
+    font-size: 0.85em;
+    font-weight: normal;
+}
+.form-control{
+    font-size: 0.7rem;
+    border-radius: 19rem;
+}
+
+.section-four p{
+    font-size: 0.8em;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.section-four .date{
+    font-size: 0.75em;
+}
+h6{
+    color: black;
+    font-size: 0.9em;
+    font-weight: bold;
+}
+.section-four .follow{
+    font-size: 0.8em;
+    font-weight: bold;
+    height: 30px;
+    background-color: #f1051b;
+}
+
+/* .phone{
+    background-color: rgba(50, 189, 224, 0.829);
+    box-shadow:  5px 3px 5px 2px rgb(0 0 0 / 12%), 0px 0px 2px 0px rgb(0 0 0 / 24%);
+} */
+
+.favori{
+    background-color: rgba(50, 189, 224, 0.87);
+    padding: 2px;
+    box-shadow:  5px 3px 5px 2px rgb(0 0 0 / 12%), 0px 0px 2px 0px rgb(0 0 0 / 24%);
+}
+/* .copy{
+    background-color: rgb(214, 137, 36);
+    padding: 2px;
+    box-shadow:  5px 3px 5px 2px rgb(0 0 0 / 12%), 0px 0px 2px 0px rgb(0 0 0 / 24%);
+} */
+
+.section-four p{
+    font-size: 0.7em;
+    font-weight: normal;
+    padding: 5px;
+}
+
+.section-four i.bi{
+    color: rgb(248, 241, 241);
+    border-radius: 5px;
+    padding-bottom: 6px;
+    margin: 2px;
+}
+
+.section-four i.bi:hover{
+    cursor: pointer;
+}
+
+.last-note{
+    font-size: 0.8em;
+    font-weight: normal;
+    padding: 10px;
+    color: rgb(107, 101, 101);
+}
+
+.telegram{
+    margin-left: 42%;
+    margin-bottom: 50px;
+    height: 40px;
+}
+
+.telegram-right{
+    width: auto;
+    margin-left: 28%;
+    margin-bottom: 50px;
+    height: 40px;
+}
+
+.last-note a{
+    text-decoration: none;
+    color: black;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+.annuler,.comment{
+    font-size: 0.7em;
+}
+
+.btn-cancel{
+    background-color: rgb(83, 77, 77);
+    height: 30px;
+}
+.btn-comment{
+    background-color: #f1051b;
+}
+
+/* Right side design */
+
+.right-details p{
+    color: black;
+}
+
+.right-details img{
+    height: 60px;
+    width: 60px;
+}
+.btn-outline-success{
+    font-size: 0.8em;
+    font-weight: bold;
+    height: 35px;
+    margin-left: 30%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.my-contact{
+    color: rgb(24, 182, 24);
+}
+.my-contact:hover{
+    color: rgb(255, 255, 255);
+}
+.follow{
+    font-size: 0.8em;
+    font-weight: bold;
+    height: 30px;
+    background-color:#f1051b;
+}
+
+.followed{
+    font-size: 0.8em;
+    font-weight: bold;
+    height: 30px;
+    background-color:#0e6ec9;
+}
+
+
+
+/* Recommandations section */
+.recommended{
+    font-weight: bold;
+}
+
+.featurette-item{
+    position: relative;
+    margin: auto;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12),0 1px 2px rgba(0, 0, 0, 0.24);
+    margin-bottom:20px;
+    height: 300px;
+    overflow:hidden;
+}
+
+.featurette-item:hover{
+    cursor: pointer;
+    transform: scale(1.009);
+}
+.grey-bloc{
+    background-color: rgb(153, 148, 148);
+    width: auto;
+    max-width: 50px;
+    border-radius: 5px;
+    padding: 4px;
+    margin: auto; 
+    margin-top: 2px;  
+}
+.featurette-image{
+    border-radius: 3px;
+}
+
+.price{
+    font-weight: bolder;
+    color: #000000;
+    text-align: right;
+}
+.city{
+    font-weight: bold;
+    color: #000000;
+    text-align: right;
+}
+.zone{
+    font-weight: normal;
+    color: rgb(19, 18, 18);
+}
+.details{
+    text-align: left;
+    color: rgb(19, 18, 18);
+    font-size: 0.7em;
+}
+
+.featurette h4{
+    font-weight: bold;
+    font-size: small;
+}
+
+
+.featurette .desc{
+    color: grey;
+    font-size: 0.9em;
+    font-weight: normal;
+}
+.owner{
+    font-weight: normal;
+    font-size: 0.9em;
+    color: black;
+}
+.featurette .date{
+    font-weight: normal;
+    font-size: 0.8em;
+    color: grey;
+}
+
+.sms{
+    color: white;
+}
+.sms:hover{
+    cursor: pointer;
+}
+
+.featurette .favori{
+    color: cornflowerblue;
+}
+
+.cover-sms{
+    background-color: rgb(214, 13, 197);
+    padding: 5px;
+    border-radius: 3px;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.12),0 1px 2px rgba(0, 0, 0, 0.24);
+}
+.cover-favori{
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 3px;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.12),0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+a.back{
+    text-decoration: none;
+    font-size: 0.9em;
+}
+
+
+
+
+
+
+
+
+/* pour les tablettes */
+/* Sur tous types d'écran, quand la largeur de la fenêtre est comprise entre 1024px et 1280px */
+@media all and (min-width: 520px) and (max-width: 1090px)
+{
+    /* Rédigez vos propriétés CSS ici */
+   
+    div.section-four{
+        display: none;
+    }
+}
+
+@media (max-width: 520px){
+    div.section-four{
+        display: none;
+    }
+}
+
+@media (min-width: 691px) and (max-width: 9080px)
+{
+    .follow{
+        display: flex;
+    }
+
+    div.right-details{
+        width: 100%;
+        margin:0px;
+    }
+}

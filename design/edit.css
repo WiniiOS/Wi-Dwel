@@ -1,0 +1,101 @@
+main{
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.left-block,.right-block{
+    background-color: #fff;
+    box-shadow:  5px 3px 5px 2px rgb(0 0 0 / 12%), 0px 0px 2px 0px rgb(0 0 0 / 24%);
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.left-block a{
+    font-size: 0.9em;
+    text-decoration: none;
+}
+
+.left-block i{
+    background-color: rgb(230, 84, 27);
+    border-radius: 10px;
+    padding-bottom: 5px;
+    margin: 4px;
+    color: #fff ;
+}
+
+.left-block p{
+    padding: 5px;
+}
+
+.right-block,.left-block{
+    margin-top: 20px;
+}
+
+.name{
+    font-size: 0.8em;
+}
+.user-img span{
+    font-size: 0.9em;
+    color: #000000;
+
+}
+
+label{
+    font-size: 0.85em;
+    font-weight: normal;
+}
+
+.form-control{
+    font-size: 0.7rem;
+    border-radius: 19rem;
+}
+
+.star{
+    color: #f1051b;
+}
+
+h4{
+    font-size: 1em;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.form-check-input{
+    width: 20px;
+    height: 20px;
+    border-color: grey;
+    border-radius: 8px;
+}
+.buttons{
+    width: 100%;
+    padding-left: 40%;
+}
+.btn-widwel{
+    background-color: #f1051b;
+}
+
+.form-avatar{
+    max-width: 400px;
+    margin: auto;
+    max-height:200px;
+}
+input.form-control-file{
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.12),0 2px 2px rgba(0, 0, 0, 0.24);
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 7px;
+    color: #3b3838;
+}
+
+.form-check-label{
+    color: rgb(48, 46, 46);
+}
+
+.status{
+    padding-left: 28%;
+    margin: 5px;
+}
+
+textarea{
+    border: none;
+}
+

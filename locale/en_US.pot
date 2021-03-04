@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Test\n"
+"POT-Creation-Date: 2021-03-03 21:29+0100\n"
+"PO-Revision-Date: 2021-03-03 21:39+0100\n"
+"Last-Translator: FRANCK <franckndi5@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;gettext\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp64\\www\\web_wi_dwel\n"
+
+#: C:\wamp64\www\web_wi_dwel/body/navbar.php:14
+msgid "POSTER VOTRE ANNONCE"
+msgstr "POST AN AD"
+
+#: C:\wamp64\www\web_wi_dwel/body/navbar.php:22
+msgid "CONNEXION"
+msgstr "LOGIN"
+
+#: C:\wamp64\www\web_wi_dwel/body/navbar.php:25
+msgid "INSCRIPTION"
+msgstr "REGISTRATION"
+
+#: C:\wamp64\www\web_wi_dwel/body/navbar.php:45
+msgid "MENU"
+msgstr "MENU"
+
+#: C:\wamp64\www\web_wi_dwel/body/navbar.php:48
+msgid "Annotations"
+msgstr "Annotations"
+
+#: C:\wamp64\www\web_wi_dwel/body/navbar.php:50
+msgid "Cartes"
+msgstr "Maps"
+
+#: C:\wamp64\www\web_wi_dwel/body/navbar.php:61
+msgid "Favoris"
+msgstr "Favorites"
+
+#: C:\wamp64\www\web_wi_dwel/body/navbar.php:63
+msgid "Editer mon profil"
+msgstr "Edit my profile"
+
+#: C:\wamp64\www\web_wi_dwel/body/navbar.php:64
+msgid "Déconnexion"
+msgstr "Logout"
+
+#: C:\wamp64\www\web_wi_dwel/lib/gettext/examples/pigs_dropin.php:77
+msgid ""
+"This is how the story goes.\n"
+"\n"
+msgstr ""

@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    font-weight: bold;
+    color: rgb(247, 244, 244);
+}
+.navbar{
+    height: auto;
+    max-height: 55px;
+}
+li{
+    width: auto;
+}
+li,a{
+    color: #fff;
+    font-size: 0.8em !important;
+    font-weight: bold;
+} 
+
+.right{
+    margin-left: 50%;
+}
+i{
+    font-size:1.8em ;
+    font-weight: bolder;
+}
+.nav-item{
+    margin-left: 10px;
+}
+.navbar-dark,.bg-dark{
+    /* background-color: #f1051b !important; */
+    background-color: #002157 !important;
+
+}
+
+.dropdown-menu,.dropdown-item{
+    background-color:#002157 !important;
+    color: rgb(254, 255, 255);
+    border: none;
+    font-weight: normal;
+}
+
+.dropdown a:hover{
+    color: rgb(252, 250, 250);
+}
+
+nav li:hover{
+    /* background-color: rgba(237,29,39, 0.74); */
+    background-color:#002157 ;
+    transform: scale(1.03);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12),0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.active{
+    /* background-color:#f1051b; */
+    background-color: #002157;
+}
+
+.show{
+    /* background-color:  #f1051b !important; */
+    background-color:  #002157 !important   ;
+
+
+}
+
+
+
+
+
+
+/* pour les tablettes */
+/* Sur tous types d'écran, quand la largeur de la fenêtre est comprise entre 1024px et 1280px */
+@media all and (min-width: 520px) and (max-width: 1090px)
+{
+    /* Rédigez vos propriétés CSS ici */
+    .right{
+        margin-left: 12%;
+    }
+    
+    div.dropdown-menu.show{
+        margin-right: 20px;
+    }
+}
